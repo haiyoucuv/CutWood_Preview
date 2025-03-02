@@ -1,4 +1,4 @@
-window.zipBundle = ["resources","common","CutScene","GuidePanel","HomeScene","MenuScene"];window.__version__ = 1740902016536;
+window.zipBundle = ["resources","common","CutScene","GuidePanel","HomeScene","MenuScene"];window.__version__ = 1740921921686;
 window.__ENV__ = "prod";
 System.register([], function (_export, _context) {
   "use strict";
